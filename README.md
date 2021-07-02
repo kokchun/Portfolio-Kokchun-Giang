@@ -8,7 +8,7 @@
 I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 
 
-## GitHub portfolio 
+## GitHub portfolio :briefcase:
 
 | Repo                               | Description                            |
 | ---------------------------------- | -------------------------------------- |
@@ -22,7 +22,7 @@ I am a passionate engineer and teacher who strive to inspire students in pursuin
 [course_plans]: https://github.com/kokchun/Planeringar-2020-2021 
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 
-## Videos
+## Videos :movie_camera:
 This is a selection of video materials that I have produced (not a full list). 
 
 | Video                                 | Description                                 |
@@ -36,7 +36,7 @@ This is a selection of video materials that I have produced (not a full list).
 [cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
 [prezi]: https://prezi.com/
 
-## Contact me 
+## Contact me :iphone:
 - [![linkedIn icon](photos/linkedIn-icon.png): LinkedIn][linkedIn]
 
 - :email: kokchungiang@gmail.com 
