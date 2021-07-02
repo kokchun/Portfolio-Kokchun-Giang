@@ -1,22 +1,47 @@
-<center>
-
 ![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](photos/cv_timeline.png)
 
-</center>
-
-<!-- Contents -->
+  - [GitHub portfolio](#github-portfolio)
+  - [Videos](#videos)
+  - [Contact me](#contact-me)
 
 # Kokchun Giang
-I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this is that clear structure and visualization are a neccessity for some, but beneficial for all.
+I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 
 
-## GitHub portfolio
+## GitHub portfolio 
 
+| Repo                               | Description                            |
+| ---------------------------------- | -------------------------------------- |
+| [Python programming][pytprog]      | introduction course                    |
+| [Data analysis][data_analysis]     | course focusing on Pandas              |
+| [Course plans 20/21][course_plans] | programming and math plans (gymnasiet) |
+| [Programmering 1][prog1]           | first programming course (gymnasiet)   |
+
+[pytprog]: https://github.com/kokchun/Programmering-med-Python
+[data_analysis]: https://github.com/kokchun/Databehandling
+[course_plans]: https://github.com/kokchun/Planeringar-2020-2021 
+[prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
+
+## Videos
+This is a selection of video materials that I have produced (not a full list). 
+
+| Video                                 | Description                                 |
+| ------------------------------------- | ------------------------------------------- |
+| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish) |
+| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)         |
+| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)      |
+
+[kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
+[ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
+[cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
+[prezi]: https://prezi.com/
 
 ## Contact me 
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path d="M19 0h-14c-2.761 0-5 2.239-5 5v14c0 2.761 2.239 5 5 5h14c2.762 0 5-2.239 5-5v-14c0-2.761-2.238-5-5-5zm-11 19h-3v-11h3v11zm-1.5-12.268c-.966 0-1.75-.79-1.75-1.764s.784-1.764 1.75-1.764 1.75.79 1.75 1.764-.783 1.764-1.75 1.764zm13.5 12.268h-3v-5.604c0-3.368-4-3.113-4 0v5.604h-3v-11h3v1.765c1.396-2.586 7-2.777 7 2.476v6.759z"/></svg>
-:email: kokchungiang@gmail.com 
+- [![linkedIn icon](photos/linkedIn-icon.png): LinkedIn][linkedIn]
 
+- :email: kokchungiang@gmail.com 
+
+[linkedIn]: https://www.linkedin.com/in/kokchungiang/
 
 <!-- 
  My journey started with studying [Engineering mathematics (BSc)][tekmat] followed by [Biomedical engineering (MSc)][biomed] at Chalmers University. After working in medtech industry with R&D, product development and regulatory affairs, I decided to go into the world of education. 
