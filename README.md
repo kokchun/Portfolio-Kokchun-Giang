@@ -37,7 +37,7 @@ This is a selection of video materials that I have produced (not a full list).
 [prezi]: https://prezi.com/
 
 ## Contact me :iphone:
-- [![linkedIn icon](photos/linkedIn-icon.png): LinkedIn][linkedIn]
+- [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedIn]
 
 - :email: kokchungiang@gmail.com 
 
