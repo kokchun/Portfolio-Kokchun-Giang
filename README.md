@@ -7,6 +7,7 @@
 # Kokchun Giang
 I am a passionate engineer and teacher who strive to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
 
+I also work with portfolio inspired pedagogics, where the ny students shall continuosly work with improving their portfolio throughout my courses. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned. 
 
 ## GitHub portfolio :briefcase:
 
@@ -39,17 +40,4 @@ This is a selection of video materials that I have produced (not a full list).
 ## Contact me :iphone:
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedIn]
 
-- :email: kokchungiang@gmail.com 
-
 [linkedIn]: https://www.linkedin.com/in/kokchungiang/
-
-<!-- 
- My journey started with studying [Engineering mathematics (BSc)][tekmat] followed by [Biomedical engineering (MSc)][biomed] at Chalmers University. After working in medtech industry with R&D, product development and regulatory affairs, I decided to go into the world of education. 
-
-[tekmat]: https://www.chalmers.se/sv/utbildning/program-pa-grundniva/Sidor/Teknisk-matematik.aspx
-
-[biomed]: https://www.chalmers.se/en/education/programmes/masters-info/Pages/Biomedical-engineering.aspx
-
-[ortoma]: https://ortoma.com/
-
- -->
