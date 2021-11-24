@@ -24,6 +24,18 @@ I also work with portfolio inspired pedagogics, where the ny students shall cont
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
+## Deployed applications :desktop_computer:
+
+This is a selection of deployed applications, that I've included in my teaching.
+
+| Application                    | Description                                   |
+| ------------------------------ | --------------------------------------------- |
+| [Stocky dashboard][stock_dash] | a simple dashboard app deployed in Heroku[^1] |
+
+[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast. 
+
+[stock_dash]: https://stocky-dashboard.herokuapp.com/
+
 ## Videos :movie_camera:
 
 This is a selection of video materials that I have produced (not a full list).
