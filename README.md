@@ -32,20 +32,22 @@ This is a selection of deployed applications, that I've included in my teaching.
 | ------------------------------ | --------------------------------------------- |
 | [Stocky dashboard][stock_dash] | a simple dashboard app deployed in Heroku[^1] |
 
-[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast. 
+[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast.
 
 [stock_dash]: https://stocky-dashboard.herokuapp.com/
 
 ## Videos :movie_camera:
 
-This is a selection of video materials that I have produced (not a full list).
+This is a selection of video materials that I have produced/participated in (not a full list).
 
-| Video                                 | Description                                 |
-| ------------------------------------- | ------------------------------------------- |
-| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish) |
-| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)         |
-| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)      |
+| Video                                 | Description                                  |
+| ------------------------------------- | -------------------------------------------- |
+| [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
+| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish)  |
+| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
+| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       |
 
+[arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
 [kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
 [ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
 [cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
