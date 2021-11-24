@@ -6,7 +6,7 @@ I am a passionate engineer and teacher who strive to inspire students in pursuin
 
 My lectures during programming courses mostly consist of code-alongs where I do live coding in class and the students follow along either physically in class or virtually via Discord, where I stream the lecture. There are also students following along through watching my recorded videos. For teaching some concepts and math courses such as linear algebra I use a digital pen with a whiteboard that is also streamed in Discord and recorded.
 
-I also work with portfolio inspired pedagogics, where the ny students shall continuosly work with improving their portfolio throughout my courses. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned.
+I also work with portfolio inspired pedagogics, where the ny students shall continuosly work with improving their portfolio throughout our courses. For the portfolio we start working with Git and GitHub in all courses, committing and pushing their work to their repositories. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned.
 
 ## GitHub portfolio :briefcase:
 
