@@ -41,7 +41,7 @@ This is a selection of deployed applications, that I've included in my teaching.
 
 [^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast.
 
-## [stock_dash]: https://stocky-dashboard.herokuapp.com/
+[stock_dash]: https://stocky-dashboard.herokuapp.com/
 
 ---
 
