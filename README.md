@@ -12,26 +12,26 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Deep learning][dl]            | deep learning course               |
-| [Machine learning][ml]         | traditional machine learning       |
-| [Data analysis][data_analysis] | course focusing on Pandas          |
-| [Python programming][pytprog]  | introduction course                |
-| [Linear algebra][lin_alg]      | introductory linear algebra course |
+| Repo                           | Description                                                   |
+| ------------------------------ | ------------------------------------------------------------- |
+| [Deep learning][dl]            | teaching deep learning algorithms                             |
+| [Machine learning][ml]         | teaching shallow machine learning algorithms                  |
+| [Data analysis][data_analysis] | teaching data processing and visualisation focusing on Pandas |
+| [Python programming][pytprog]  | teaching Python, fundamentals, OOP, git, github               |
+| [Linear algebra][lin_alg]      | teaching linear algebra                                       |
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [dl]: https://github.com/kokchun/Deep-learning-AI21
 [ml]: https://github.com/kokchun/Maskininlarning-AI21
-[pytprog]: https://github.com/kokchun/Programmering-med-Python
+[pytprog]: https://github.com/kokchun/Python-course-AI22
 [data_analysis]: https://github.com/kokchun/Databehandling
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
 ---
 
-## Deployed applications :desktop_computer:
+<!-- ## Deployed applications :desktop_computer:
 
 This is a selection of deployed applications, that I've included in my teaching.
 
@@ -43,18 +43,18 @@ This is a selection of deployed applications, that I've included in my teaching.
 
 [stock_dash]: https://stocky-dashboard.herokuapp.com/
 
----
+--- -->
 
 ## Videos :movie_camera:
 
-This is a selection of video materials that I have produced/participated in (not a full list).
+This is a selection of video materials that I have produced/participated in (not a full list). I have recorded all my lectures with theory and code-alongs, but don't show them here.
 
 | Video                                 | Description                                  |
 | ------------------------------------- | -------------------------------------------- |
 | [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
 | [Kanban][kanban_react]                | a simple Kanban board using React (Swedish)  |
 | [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
-| [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       |
+<!-- | [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       | -->
 
 [arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
 [kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
