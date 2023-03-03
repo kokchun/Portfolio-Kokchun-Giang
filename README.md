@@ -23,9 +23,9 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
 [dl]: https://github.com/kokchun/Deep-learning-AI21
-[ml]: https://github.com/kokchun/Maskininlarning-AI21
+[ml]: https://github.com/kokchun/Machine-learning-AI22
 [pytprog]: https://github.com/kokchun/Python-course-AI22
-[data_analysis]: https://github.com/kokchun/Databehandling
+[data_analysis]: https://github.com/kokchun/Databehandling-AI22
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
@@ -52,9 +52,8 @@ This is a selection of video materials that I have produced/participated in (not
 | Video                                 | Description                                  |
 | ------------------------------------- | -------------------------------------------- |
 | [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
-| [Kanban][kanban_react]                | a simple Kanban board using React (Swedish)  |
 | [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
-<!-- | [Video CV 2019][cv_prezi]             | CV created in [Prezi][prezi] (Swedish)       | -->
+
 
 [arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
 [kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
