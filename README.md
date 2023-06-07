@@ -12,16 +12,16 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                                                   |
-| ------------------------------ | ------------------------------------------------------------- |
-| [Deep learning][dl]            | teaching deep learning algorithms                             |
-| [Machine learning][ml]         | teaching shallow machine learning algorithms                  |
-| [Data analysis][data_analysis] | teaching data processing and visualisation focusing on Pandas |
-| [Python programming][pytprog]  | teaching Python, fundamentals, OOP, git, github               |
-| [Linear algebra][lin_alg]      | teaching linear algebra                                       |
+| Repo                           | Description                                                              |
+| ------------------------------ | ------------------------------------------------------------------------ |
+| [Data engineering][data_eng]   | teaching bash, docker, airflow, data pipelines                           |
+| [Deep learning][dl]            | teaching deep learning algorithms, including computer vision and NLP     |
+| [Machine learning][ml]         | teaching shallow machine learning algorithms, mainly supervised learning |
+| [Data analysis][data_analysis] | teaching data processing and visualisation focusing on Pandas            |
+| [Python programming][pytprog]  | teaching Python, fundamentals, OOP, git, github                          |
+| [Linear algebra][lin_alg]      | teaching linear algebra                                                  |
 
-<!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
-
+[data_eng]: https://github.com/kokchun/Data-engineering-AI22
 [dl]: https://github.com/kokchun/Deep-learning-AI21
 [ml]: https://github.com/kokchun/Machine-learning-AI22
 [pytprog]: https://github.com/kokchun/Python-course-AI22
@@ -31,30 +31,17 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 ---
 
-<!-- ## Deployed applications :desktop_computer:
-
-This is a selection of deployed applications, that I've included in my teaching.
-
-| Application                    | Description                                   |
-| ------------------------------ | --------------------------------------------- |
-| [Stocky dashboard][stock_dash] | a simple dashboard app deployed in Heroku[^1] |
-
-[^1]: Due to free dyno in Heroku, it takes some time for loading the page the first time because it needs to be started, but after it has started up, the app is fast.
-
-[stock_dash]: https://stocky-dashboard.herokuapp.com/
-
---- -->
-
 ## Videos :movie_camera:
 
 This is a selection of video materials that I have produced/participated in (not a full list). I have recorded all my lectures with theory and code-alongs, but don't show them here.
 
-| Video                                 | Description                                  |
-| ------------------------------------- | -------------------------------------------- |
-| [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market |
-| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)          |
+| Video                                 | Description                                             |
+| ------------------------------------- | ------------------------------------------------------- |
+| [GAIA][gaia]                          | speaking about building a 2-year data science education |
+| [Arbetsförmedlingen][arb_formedling]  | interview of AI program & future work market            |
+| [Faktorer och nollställen][ma3c_fakt] | video lecture on calculus (Swedish)                     |
 
-
+[gaia]: https://www.youtube.com/watch?v=Gs3C_60NGQ8
 [arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
 [kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
 [ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
