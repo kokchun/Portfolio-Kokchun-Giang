@@ -76,7 +76,7 @@ This is a selection of video materials that I have produced/participated in (not
 
 ---
 
-## Contact me :iphone:
+## contact me :iphone:
 
 - [![linkedIn icon](assets/linkedIn-icon.png): LinkedIn][linkedin]
 
