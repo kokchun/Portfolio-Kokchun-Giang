@@ -1,4 +1,4 @@
-![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/cv_timeline.png)
+![CV timeline from 2012 to now. It started out with my studies at Chalmers followed by my biomedical engineering experiences in industry. Then my path led to teaching at gymnasium and currently at IT-högskolan.](assets/timeline_2024_v2.png)
 
 # kokchun giang :man_teacher:
 
