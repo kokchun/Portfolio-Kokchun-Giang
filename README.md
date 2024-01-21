@@ -4,6 +4,8 @@
 
 I am a passionate data scientist, data engineer and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
 
+You can see my working experience timeline in the figure above.
+
 <!-- ## AI teacher
 
 As a  to inspire students in pursuing the beauty of programming and mathematics. To do this successfully, I am always sharpening my technological and pedagogical skillsets. My pedagogical strategy is based on a combination of **structure** from special pedagogy and clear **visualization** from engineering. The main idea behind this, is that clear structure and visualization are a neccessity for some, but beneficial for all.
@@ -17,7 +19,7 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 You can use my course materials on my Github to learn various topics within data science and data engineering.
 
-| Repo                           | Description                                                              |
+| repository                     | description                                                              |
 | ------------------------------ | ------------------------------------------------------------------------ |
 | [Data engineering][data_eng]   | teaching bash, docker, airflow, data pipelines                           |
 | [Deep learning][dl]            | teaching deep learning algorithms, including computer vision and NLP     |
@@ -34,15 +36,26 @@ You can use my course materials on my Github to learn various topics within data
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
-## deployed projects
+## deployed projects :open_file_folder:
 
 These are some projects I've deployed to the public.
 
-| project                 | description                                                                                                         |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------- |
-| [YH dashboard][yh_stat] | dashboard showing KPIs for higher vocational education. The aim is for educational providers to be more data-driven |
+| project                             | description                                                                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
+| [YH dashboard :bar_chart:][yh_stat] | dashboard showing KPIs for higher vocational education. The aim is for educational providers to be more data-driven |
 
 [yh_stat]: https://yh-dashboard-2022-ec090093dc66.herokuapp.com/
+
+## education :books:
+
+Here are some courses and education programs I've studied that are most relevant to my current field of work.
+
+| :blue_book:                             | :school:              | :calendar: |
+| --------------------------------------- | --------------------- | ---------- |
+| AI organisations, value, implementation | AI Sweden             | 2024       |
+| Biomedical engineering (MSc)            | Chalmers university   | 2015-2017  |
+| Engineering mathematics (BSc)           | Chalmers university   | 2012-2015  |
+| Teachers education program              | Gothenburg university | 2019-2020  |
 
 ## videos :movie_camera:
 
