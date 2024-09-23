@@ -14,7 +14,7 @@ My lectures during programming courses mostly consist of code-alongs where I do 
 
 I also work with portfolio inspired pedagogics, where the students continuosly work with improving their portfolio throughout our courses. For the portfolio we start working with Git and GitHub in all courses, committing and pushing their work to their repositories. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned.
  -->
-
+<!-- 
 ## this is my toolchain 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -29,7 +29,7 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
-![dbt](https://a11ybadges.com/badge?logo=dbt)
+![dbt](https://a11ybadges.com/badge?logo=dbt) -->
 
 
 ## check out my github portfolio :briefcase:
