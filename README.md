@@ -15,9 +15,24 @@ My lectures during programming courses mostly consist of code-alongs where I do 
 I also work with portfolio inspired pedagogics, where the students continuosly work with improving their portfolio throughout our courses. For the portfolio we start working with Git and GitHub in all courses, committing and pushing their work to their repositories. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned.
  -->
 
-## skills
+## this is my toolchain 
 
-## github portfolio :briefcase:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
+![dbt](https://a11ybadges.com/badge?logo=dbt)
+
+
+## check out my github portfolio :briefcase:
 
 You can use my course materials on my Github to learn various topics within data science and data engineering.
 
@@ -40,7 +55,7 @@ You can use my course materials on my Github to learn various topics within data
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
-## deployed projects :open_file_folder:
+## here are some deployed projects :open_file_folder:
 
 These are some projects I've deployed to the public.
 
@@ -50,7 +65,7 @@ These are some projects I've deployed to the public.
 
 [yh_stat]: https://yh-dashboard-2022-ec090093dc66.herokuapp.com/
 
-## videos :movie_camera:
+## learn with me, my videos :movie_camera:
 
 This is a selection of video materials that I have produced/participated in (not a full list). I have recorded all my lectures with theory and code-alongs, but don't show them here.
 
@@ -69,7 +84,7 @@ This is a selection of video materials that I have produced/participated in (not
 [cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
 [prezi]: https://prezi.com/
 
-## education :books:
+## my formal educations :books:
 
 Here are some courses and education programs I've studied that are most relevant to my current field of work.
 
