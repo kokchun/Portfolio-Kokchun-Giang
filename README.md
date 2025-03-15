@@ -2,7 +2,7 @@
 
 # kokchun giang :man_teacher:
 
-I am a passionate data scientist, data engineer and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
+I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
 
 You can see my working experience timeline in the figure above.
 
@@ -14,8 +14,8 @@ My lectures during programming courses mostly consist of code-alongs where I do 
 
 I also work with portfolio inspired pedagogics, where the students continuosly work with improving their portfolio throughout our courses. For the portfolio we start working with Git and GitHub in all courses, committing and pushing their work to their repositories. By doing this, they have a well-documented record of what they have done and learned in my courses. This is valuable both for the individual as they can follow their own learning progress, as well as for potential employers to concretely see what they have learned.
  -->
-<!-- 
-## this is my toolchain 
+<!--
+## this is my toolchain
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -31,21 +31,24 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 ![Snowflake](https://a11ybadges.com/badge?logo=snowflake)
 ![dbt](https://a11ybadges.com/badge?logo=dbt) -->
 
-
 ## check out my github portfolio :briefcase:
 
 You can use my course materials on my Github to learn various topics within data science and data engineering.
 
-| repository                      | description                                                              |
-| ------------------------------- | ------------------------------------------------------------------------ |
-| [Data warehouse lifecycle][dwh] | teaching snowflake, dlt, dbt, streamlit, dimensional modeling            |
-| [Data engineering][data_eng]    | teaching bash, docker, airflow, data pipelines                           |
-| [Deep learning][dl]             | teaching deep learning algorithms, including computer vision and NLP     |
-| [Machine learning][ml]          | teaching shallow machine learning algorithms, mainly supervised learning |
-| [Data analysis][data_analysis]  | teaching data processing and visualisation focusing on Pandas            |
-| [Python programming][pytprog]   | teaching Python, fundamentals, OOP, git, github                          |
-| [Linear algebra][lin_alg]       | teaching linear algebra                                                  |
+| repository                            | description                                                              |
+| ------------------------------------- | ------------------------------------------------------------------------ |
+| [Data warehouse lifecycle][dwh]       | teaching snowflake, dlt, dbt, streamlit, dimensional modeling            |
+| [Data platform course][data_platform] | teaching kafka, streaming data to live dashboard, docker, postgres       |
+| [Data modeling course][model]         | teaching OLTP data modeling, normalization, keys, relational model       |
+| [Data engineering][data_eng]          | teaching bash, docker, airflow, data pipelines                           |
+| [Deep learning][dl]                   | teaching deep learning algorithms, including computer vision and NLP     |
+| [Machine learning][ml]                | teaching shallow machine learning algorithms, mainly supervised learning |
+| [Data analysis][data_analysis]        | teaching data processing and visualisation focusing on Pandas            |
+| [Python programming][pytprog]         | teaching Python, fundamentals, OOP, git, github                          |
+| [Linear algebra][lin_alg]             | teaching linear algebra                                                  |
 
+[data_platform]: https://github.com/AIgineerAB/data_platform_course
+[model]: https://github.com/AIgineerAB/data_modeling_course
 [dwh]: https://github.com/AIgineerAB/data_warehouse_course
 [data_eng]: https://github.com/kokchun/Data-engineering-AI22
 [dl]: https://github.com/kokchun/Deep-learning-AI21
@@ -69,20 +72,18 @@ These are some projects I've deployed to the public.
 
 This is a selection of video materials that I have produced/participated in (not a full list). I have recorded all my lectures with theory and code-alongs, but don't show them here.
 
-| Video                                                   | Description                                             |
-| ------------------------------------------------------- | ------------------------------------------------------- |
-| [Data warehouse lifecycle course video series ][dwh_yt] | video series on data warehouse lifecycle                |
-| [GAIA][gaia]                                            | speaking about building a 2-year data science education |
-| [Arbetsförmedlingen][arb_formedling]                    | interview of AI program & future work market            |
-| [Faktorer och nollställen][ma3c_fakt]                   | video lecture on calculus (Swedish)                     |
+| Video                                                   | Description                                               |
+| ------------------------------------------------------- | --------------------------------------------------------- |
+| [Data platforms video series][dp_yt]                    | video series on data platforms course with streaming data |
+| [Data warehouse lifecycle course video series ][dwh_yt] | video series on data warehouse lifecycle                  |
+| [Database SQL with DuckDB course][duck]                 | video series on SQL with DuckDB                           |
+| [GAIA][gaia]                                            | speaking about building a 2-year data science education   |
 
+[duck]: https://www.youtube.com/watch?v=z3ihUI6N-tg&list=PLpHkXU1Ab_H_noHDIOIBWPgcewu3-LH4C
+[dp_yt]: https://www.youtube.com/watch?v=Hf1ryX3dryg&list=PLpHkXU1Ab_H9c1TqK-TkiP7XayBPHyiLt
 [dwh_yt]: https://www.youtube.com/watch?v=x9AyMOVAtV4&list=PLpHkXU1Ab_H_QR1Erq2VDUj16cVAEe9dq
 [gaia]: https://www.youtube.com/watch?v=Gs3C_60NGQ8
-[arb_formedling]: https://arbetsformedlingen.se/play/webb-tv-och-press/webb-tv/tema-framtidens-arbetsmarknad---redan-verklighet
-[kanban_react]: https://drive.google.com/file/d/1-45bAeX-TuQXE0SVtcIDO_85qHSqGEmW/view?usp=sharing
 [ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
-[cv_prezi]: https://www.youtube.com/watch?v=Xipc6YAtjTc&t=1s
-[prezi]: https://prezi.com/
 
 ## my formal educations :books:
 
