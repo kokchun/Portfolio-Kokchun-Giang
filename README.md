@@ -2,9 +2,10 @@
 
 # kokchun giang :man_teacher:
 
-I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
+I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations. 
 
-You can see my working experience timeline in the figure above.
+Currently running my company AIgineer and open to consulting works and collaborations so feel free to contact me :-)
+
 
 <!-- ## AI teacher
 
