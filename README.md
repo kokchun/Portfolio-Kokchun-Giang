@@ -2,10 +2,9 @@
 
 # kokchun giang :man_teacher:
 
-I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations. 
+I am a passionate data engineer, data scientist and AI teacher who loves working with data and creating valuable insights to aid people and organisations.
 
 Currently running my company AIgineer and open to consulting works and collaborations so feel free to contact me :-)
-
 
 <!-- ## AI teacher
 
@@ -36,22 +35,27 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 You can use my course materials on my Github to learn various topics within data science and data engineering.
 
-| repository                            | description                                                              |
-| ------------------------------------- | ------------------------------------------------------------------------ |
-| [Data warehouse lifecycle][dwh]       | teaching snowflake, dlt, dbt, streamlit, dimensional modeling            |
-| [Data platform course][data_platform] | teaching kafka, streaming data to live dashboard, docker, postgres       |
-| [Data modeling course][model]         | teaching OLTP data modeling, normalization, keys, relational model       |
-| [Data engineering][data_eng]          | teaching bash, docker, airflow, data pipelines                           |
-| [Deep learning][dl]                   | teaching deep learning algorithms, including computer vision and NLP     |
-| [Machine learning][ml]                | teaching shallow machine learning algorithms, mainly supervised learning |
-| [Data analysis][data_analysis]        | teaching data processing and visualisation focusing on Pandas            |
-| [Python programming][pytprog]         | teaching Python, fundamentals, OOP, git, github                          |
-| [Linear algebra][lin_alg]             | teaching linear algebra                                                  |
+| repository                            | description                                                                                |
+| ------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [Data warehouse lifecycle][dwh]       | teaching snowflake, dlt, dbt, streamlit, dimensional modeling                              |
+| [Data platform course][data_platform] | teaching kafka, streaming data to live dashboard, docker, postgres                         |
+| [Data visualization course][viz]      | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
+| [Data modeling course][model]         | teaching OLTP data modeling, normalization, keys, relational model                         |
+| [Data engineering][data_eng]          | teaching modern data stack with dlt, dbt, duckdb, docker, snowflake, dagster               |
+| [Deep learning][dl]                   | teaching deep learning algorithms, including computer vision and NLP                       |
+| [Machine learning][ml]                | teaching shallow machine learning algorithms, mainly supervised learning                   |
+| [Data analysis][data_analysis]        | teaching data processing and visualisation focusing on Pandas                              |
+| [Python programming][pytprog]         | teaching Python, fundamentals, OOP, git, github                                            |
+| [Linear algebra][lin_alg]             | teaching linear algebra                                                                    |
 
 [data_platform]: https://github.com/AIgineerAB/data_platform_course
 [model]: https://github.com/AIgineerAB/data_modeling_course
 [dwh]: https://github.com/AIgineerAB/data_warehouse_course
-[data_eng]: https://github.com/kokchun/Data-engineering-AI22
+[viz]: https://github.com/AIgineerAB/data_visualization_course
+
+<!-- [data_eng]: https://github.com/kokchun/Data-engineering-AI22 -->
+
+[data_eng]: https://github.com/AIgineerAB/data-engineering-OPA24
 [dl]: https://github.com/kokchun/Deep-learning-AI21
 [ml]: https://github.com/kokchun/Machine-learning-AI22
 [pytprog]: https://github.com/kokchun/Python-course-AI22
