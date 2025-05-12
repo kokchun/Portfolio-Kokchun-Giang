@@ -80,7 +80,9 @@ This is a selection of video materials that I have produced/participated in (not
 | Video                                                   | Description                                               |
 | ------------------------------------------------------- | --------------------------------------------------------- |
 | [Data platforms video series][dp_yt]                    | video series on data platforms course with streaming data |
+| [Data modeling course video series][dp_yt]              | video series on data modeling course                      |
 | [Data warehouse lifecycle course video series ][dwh_yt] | video series on data warehouse lifecycle                  |
+| [Data visualization course ][viz_list]                  | video series on data visualization course                 |
 | [Database SQL with DuckDB course][duck]                 | video series on SQL with DuckDB                           |
 | [GAIA][gaia]                                            | speaking about building a 2-year data science education   |
 
@@ -88,6 +90,7 @@ This is a selection of video materials that I have produced/participated in (not
 [dp_yt]: https://www.youtube.com/watch?v=Hf1ryX3dryg&list=PLpHkXU1Ab_H9c1TqK-TkiP7XayBPHyiLt
 [dwh_yt]: https://www.youtube.com/watch?v=x9AyMOVAtV4&list=PLpHkXU1Ab_H_QR1Erq2VDUj16cVAEe9dq
 [gaia]: https://www.youtube.com/watch?v=Gs3C_60NGQ8
+[viz_list]: https://www.youtube.com/watch?v=mSU5vZTbS9s&list=PLpHkXU1Ab_H-skiIjSgtvg4h33yn1RQSt
 [ma3c_fakt]: https://www.youtube.com/watch?v=wVneS4Akh9I
 
 ## my formal educations :books:
