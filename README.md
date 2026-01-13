@@ -35,19 +35,21 @@ I also work with portfolio inspired pedagogics, where the students continuosly w
 
 You can use my course materials on my Github to learn various topics within data science and data engineering.
 
-| repository                            | description                                                                                |
-| ------------------------------------- | ------------------------------------------------------------------------------------------ |
-| [Data warehouse lifecycle][dwh]       | teaching snowflake, dlt, dbt, streamlit, dimensional modeling                              |
-| [Data platform course][data_platform] | teaching kafka, streaming data to live dashboard, docker, postgres                         |
-| [Data visualization course][viz]      | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
-| [Data modeling course][model]         | teaching OLTP data modeling, normalization, keys, relational model                         |
-| [Data engineering][data_eng]          | teaching modern data stack with dlt, dbt, duckdb, docker, snowflake, dagster               |
-| [Deep learning][dl]                   | teaching deep learning algorithms, including computer vision and NLP                       |
-| [Machine learning][ml]                | teaching shallow machine learning algorithms, mainly supervised learning                   |
-| [Data analysis][data_analysis]        | teaching data processing and visualisation focusing on Pandas                              |
-| [Python programming][pytprog]         | teaching Python, fundamentals, OOP, git, github                                            |
-| [Linear algebra][lin_alg]             | teaching linear algebra                                                                    |
+| repository                               | description                                                                                |
+| ---------------------------------------- | ------------------------------------------------------------------------------------------ |
+| [AI engineering short course][ai_course] | teaching AI engineering                                                                    |
+| [Data warehouse lifecycle][dwh]          | teaching snowflake, dlt, dbt, streamlit, dimensional modeling                              |
+| [Data platform course][data_platform]    | teaching kafka, streaming data to live dashboard, docker, postgres                         |
+| [Data visualization course][viz]         | teaching matplotlib, storytelling with data, taipy, tableu, data analysis, data processing |
+| [Data modeling course][model]            | teaching OLTP data modeling, normalization, keys, relational model                         |
+| [Data engineering][data_eng]             | teaching modern data stack with dlt, dbt, duckdb, docker, snowflake, dagster               |
+| [Deep learning][dl]                      | teaching deep learning algorithms, including computer vision and NLP                       |
+| [Machine learning][ml]                   | teaching shallow machine learning algorithms, mainly supervised learning                   |
+| [Data analysis][data_analysis]           | teaching data processing and visualisation focusing on Pandas                              |
+| [Python programming][pytprog]            | teaching Python, fundamentals, OOP, git, github                                            |
+| [Linear algebra][lin_alg]                | teaching linear algebra                                                                    |
 
+[ai_course]: https://github.com/AIgineerAB/AI_engineering_four_weeks_course
 [data_platform]: https://github.com/AIgineerAB/data_platform_course
 [model]: https://github.com/AIgineerAB/data_modeling_course
 [dwh]: https://github.com/AIgineerAB/data_warehouse_course
@@ -79,6 +81,7 @@ This is a selection of video materials that I have produced/participated in (not
 
 | Video                                                   | Description                                               |
 | ------------------------------------------------------- | --------------------------------------------------------- |
+| [AI engineering video series][ai]                       | video series on AI engineering                            |
 | [Data platforms video series][dp_yt]                    | video series on data platforms course with streaming data |
 | [Data modeling course video series][dp_yt]              | video series on data modeling course                      |
 | [Data warehouse lifecycle course video series ][dwh_yt] | video series on data warehouse lifecycle                  |
@@ -86,6 +89,7 @@ This is a selection of video materials that I have produced/participated in (not
 | [Database SQL with DuckDB course][duck]                 | video series on SQL with DuckDB                           |
 | [GAIA][gaia]                                            | speaking about building a 2-year data science education   |
 
+[ai]: https://www.youtube.com/playlist?list=PLpHkXU1Ab_H97zR3_cMJDoUozxUvD1oqc
 [duck]: https://www.youtube.com/watch?v=z3ihUI6N-tg&list=PLpHkXU1Ab_H_noHDIOIBWPgcewu3-LH4C
 [dp_yt]: https://www.youtube.com/watch?v=Hf1ryX3dryg&list=PLpHkXU1Ab_H9c1TqK-TkiP7XayBPHyiLt
 [dwh_yt]: https://www.youtube.com/watch?v=x9AyMOVAtV4&list=PLpHkXU1Ab_H_QR1Erq2VDUj16cVAEe9dq
