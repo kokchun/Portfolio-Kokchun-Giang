@@ -65,7 +65,7 @@ You can use my course materials on my Github to learn various topics within data
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 
-## here are some deployed projects :open_file_folder:
+<!-- ## here are some deployed projects :open_file_folder:
 
 These are some projects I've deployed to the public.
 
@@ -73,7 +73,7 @@ These are some projects I've deployed to the public.
 | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------- |
 | [YH dashboard :bar_chart:][yh_stat] | dashboard showing KPIs for higher vocational education. The aim is for educational providers to be more data-driven |
 
-[yh_stat]: https://yh-dashboard-2022-ec090093dc66.herokuapp.com/
+[yh_stat]: https://yh-dashboard-2022-ec090093dc66.herokuapp.com/ -->
 
 ## learn with me, my videos :movie_camera:
 
